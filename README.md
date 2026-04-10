@@ -1,4 +1,4 @@
-# AR_Tetris_OpenCV
+# AR_Tetris_Showcase
 
 An interactive AR Tetris application using OpenCV that overlays 3D Tetris blocks onto a real-world chessboard pattern via camera pose estimation and lens distortion correction.
 
