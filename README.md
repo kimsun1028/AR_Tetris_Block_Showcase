@@ -1,2 +1,2 @@
-# AR_Tetris_OpenCV
+# AR_Tetris_Showcase
 
